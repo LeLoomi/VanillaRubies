@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "vanillarubies",
+  "version": "${version}",
+
+  "name": "Vanilla Rubies",
+  "description": "Adds rubies, ruby gear etc. in vanilla true fashion, just as if they'd never got replaced by emeralds.",
+  "authors": [
+    "LeLoomi"
+  ],
+  "contact": {
+    "homepage": "https://github.com/LeLoomi/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC BY-SA 4.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.leloomi.vanillarubies.VanillaRubies"
+    ],
+    "client": [
+      "net.leloomi.vanillarubies.VanillaRubiesClient"
+    ]
+  },
+  "mixins": [
+    "vanillarubies.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
