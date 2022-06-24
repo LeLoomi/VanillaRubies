@@ -1,3 +1,14 @@
-# VanillaRubies
+# Minecraft *VanillaRubies*
+This mod aims to seamlessly integrate rubies back into the game, which were planned to be added with the 1.3 update a decade ago. They do not replace emeralds for trading and instead are available as "regular material" i.e. for crafting armor and tools.
 
-I don't like Forge. This is yet another rewrite of the Vanilla Rubies mod - but since it's for fabric, it's quite possible to keep this one updated I think.
+Current progress (v 0.0.1):
+ - [x] Item
+ - [x] (Deepslate) Ore block, gem block
+ - [x] Armor
+ - [x] Tools
+ - [ ] Ore generation
+ - [ ] Villager trading
+ - [ ] Stat balancing
+
+
+This mod is only available for [Minecraft Fabric](https://fabricmc.net/), MC Version 1.19.
