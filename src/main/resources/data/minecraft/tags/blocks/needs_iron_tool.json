@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values":
+  [
+    "vanillarubies:ruby_block",
+    "vanillarubies:ruby_ore",
+    "vanillarubies:ruby_ore_deepslate"
+  ]
+}

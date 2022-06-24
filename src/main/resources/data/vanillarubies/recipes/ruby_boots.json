@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"r r",
+		"r r"
+	],
+	"key":
+	{
+		"r":
+		{
+			"item": "vanillarubies:ruby_gem"
+		}
+	},	
+	"result":
+	{
+		"item": "vanillarubies:ruby_boots",
+		"count": 1
+	}
+}

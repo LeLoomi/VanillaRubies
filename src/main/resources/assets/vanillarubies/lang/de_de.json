@@ -1,0 +1,20 @@
+{
+	"item.vanillarubies.ruby_gem": "Rubin",
+	
+	"item.vanillarubies.ruby_axe": "Rubinaxt",
+	"item.vanillarubies.ruby_hoe": "Rubinhacke",
+	"item.vanillarubies.ruby_pickaxe": "Rubinspitzhacke",
+	"item.vanillarubies.ruby_shovel": "Rubinschaufel",
+	"item.vanillarubies.ruby_sword": "Rubinschwert",
+	
+	"item.vanillarubies.ruby_helmet": "Rubinhelm",
+	"item.vanillarubies.ruby_chestplate": "Rubinharnisch",
+	"item.vanillarubies.ruby_leggings": "Rubinbeinschutz",
+	"item.vanillarubies.ruby_boots": "Rubinstiefel",
+	
+	"block.vanillarubies.ruby_block": "Rubinblock",
+	"block.vanillarubies.ruby_ore": "Rubinerz",
+	"block.vanillarubies.ruby_ore_deepslate": "Tiefenschiefer-Rubinerz",
+
+	"itemGroup.vanillarubies.rubiesgroup": "Rubine"
+}

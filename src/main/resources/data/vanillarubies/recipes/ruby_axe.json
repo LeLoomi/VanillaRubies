@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"rr",
+		"sr",
+		"s "
+	],
+	"key":
+	{
+		"r":
+		{
+			"item": "vanillarubies:ruby_gem"
+		},
+		"s":
+		{
+			"item": "minecraft:stick"
+		}
+	},	
+	"result":
+	{
+		"item": "vanillarubies:ruby_axe",
+		"count": 1
+	}
+}
