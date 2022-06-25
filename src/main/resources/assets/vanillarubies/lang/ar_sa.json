@@ -1,0 +1,22 @@
+{
+	"item.vanillarubies.ruby_gem": "ياقوت",
+	
+	"item.vanillarubies.ruby_axe": "فأس ياقوت",
+	"item.vanillarubies.ruby_hoe": "معزقة  ياقوت",
+	"item.vanillarubies.ruby_pickaxe": "معول ياقوت",
+	"item.vanillarubies.ruby_shovel": "مجرفة  ياقوت",
+	"item.vanillarubies.ruby_sword": "سيف ياقوت",
+	
+	"item.vanillarubies.ruby_helmet": "خوذة ياقوت",
+	"item.vanillarubies.ruby_chestplate": "صدر ياقوت",
+	"item.vanillarubies.ruby_leggings": "سروال ياقوت",
+	"item.vanillarubies.ruby_boots": "أحذية ياقوت",
+	
+	"block.vanillarubies.ruby_block": "كتلة ياقوت",
+	"block.vanillarubies.ruby_ore": "خام ياقوت",
+	"block.vanillarubies.ruby_ore_deepslate": "عميقة ياقوت خام",
+
+	"itemGroup.vanillarubies.rubiesgroup": "الياقوت",
+	
+	"langfile_author": "SvennyR"
+}

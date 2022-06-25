@@ -1,0 +1,22 @@
+{
+	"item.vanillarubies.ruby_gem": "Rubis",
+	
+	"item.vanillarubies.ruby_axe": "Hache Rubis",
+	"item.vanillarubies.ruby_hoe": "Houe Rubis",
+	"item.vanillarubies.ruby_pickaxe": "Pioche Rubis",
+	"item.vanillarubies.ruby_shovel": "Pelle Rubis",
+	"item.vanillarubies.ruby_sword": "Épée Rubis",
+	
+	"item.vanillarubies.ruby_helmet": "Casque Rubis",
+	"item.vanillarubies.ruby_chestplate": "Plastron Rubis",
+	"item.vanillarubies.ruby_leggings": "Pantalons Rubis",
+	"item.vanillarubies.ruby_boots": "Bottes Rubis",
+	
+	"block.vanillarubies.ruby_block": "Bloque de rubis",
+	"block.vanillarubies.ruby_ore": "Minerai de rubis",
+	"block.vanillarubies.ruby_ore_deepslate": "minerai de rubis des âbimes",
+
+	"itemGroup.vanillarubies.rubiesgroup": "Rubis",
+	
+	"langfile_author": "Gimly"
+}

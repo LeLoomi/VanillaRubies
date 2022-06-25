@@ -1,0 +1,22 @@
+{
+	"item.vanillarubies.ruby_gem": "Rubino",
+	
+	"item.vanillarubies.ruby_axe": "Ascia di rubino",
+	"item.vanillarubies.ruby_hoe": "Zappa di rubino",
+	"item.vanillarubies.ruby_pickaxe": "Piccone di rubino",
+	"item.vanillarubies.ruby_shovel": "Pala di rubino",
+	"item.vanillarubies.ruby_sword": "Spada di rubino",
+	
+	"item.vanillarubies.ruby_helmet": "Elmo di rubino",
+	"item.vanillarubies.ruby_chestplate": "Pettorale di rubino",
+	"item.vanillarubies.ruby_leggings": "Gambali di rubino",
+	"item.vanillarubies.ruby_boots": "Stivali di rubino",
+	
+	"block.vanillarubies.ruby_block": "Blocco di rubino",
+	"block.vanillarubies.ruby_ore": "Minerale di rubino",
+	"block.vanillarubies.ruby_ore_deepslate": "Minerale di rubino profonda",
+
+	"itemGroup.vanillarubies.rubiesgroup": "Rubini",
+	
+	"langfile_author": "LeLoomi, DeepL"
+}

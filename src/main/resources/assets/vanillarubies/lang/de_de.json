@@ -16,5 +16,7 @@
 	"block.vanillarubies.ruby_ore": "Rubinerz",
 	"block.vanillarubies.ruby_ore_deepslate": "Tiefenschiefer-Rubinerz",
 
-	"itemGroup.vanillarubies.rubiesgroup": "Rubine"
+	"itemGroup.vanillarubies.rubiesgroup": "Rubine",
+	
+	"langfile_author": "LeLoomi"
 }

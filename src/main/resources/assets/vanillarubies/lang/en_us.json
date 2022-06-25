@@ -9,12 +9,14 @@
 	
 	"item.vanillarubies.ruby_helmet": "Ruby Helmet",
 	"item.vanillarubies.ruby_chestplate": "Ruby Chestplate",
-	"item.vanillarubies.ruby_leggings": "Ruby Leggins",
+	"item.vanillarubies.ruby_leggings": "Ruby Pants",
 	"item.vanillarubies.ruby_boots": "Ruby Boots",
 	
 	"block.vanillarubies.ruby_block": "Ruby Block",
 	"block.vanillarubies.ruby_ore": "Ruby Ore",
 	"block.vanillarubies.ruby_ore_deepslate": "Deepslate Ruby Ore",
 
-	"itemGroup.vanillarubies.rubiesgroup": "Rubies"
+	"itemGroup.vanillarubies.rubiesgroup": "Rubies",
+	
+	"langfile_author": "LeLoomi"
 }

@@ -1,0 +1,22 @@
+{
+	"item.vanillarubies.ruby_gem": "Rubí",
+	
+	"item.vanillarubies.ruby_axe": "Hacha de rubí",
+	"item.vanillarubies.ruby_hoe": "Azada de rubí",
+	"item.vanillarubies.ruby_pickaxe": "Pico de rubí",
+	"item.vanillarubies.ruby_shovel": "Pala de rubí",
+	"item.vanillarubies.ruby_sword": "Espada de rubí",
+	
+	"item.vanillarubies.ruby_helmet": "Casco de rubí",
+	"item.vanillarubies.ruby_chestplate": "Pechera de rubí",
+	"item.vanillarubies.ruby_leggings": "Pantalones de rubí",
+	"item.vanillarubies.ruby_boots": "Botas de rubí",
+	
+	"block.vanillarubies.ruby_block": "Bloque de rubí",
+	"block.vanillarubies.ruby_ore": "Mineral de rubí",
+	"block.vanillarubies.ruby_ore_deepslate": "Mineral de rubí profundo",
+
+	"itemGroup.vanillarubies.rubiesgroup": "Rubíes",
+	
+	"langfile_author": "Shanba"
+}
