@@ -7,7 +7,7 @@ Current progress (v 0.0.1):
  - [x] (Deepslate) Ore block, gem block
  - [x] Armor
  - [x] Tools
- - [ ] Ore generation
+ - [x] Ore generation
  - [ ] Villager trading
  - [ ] Stat balancing
 
