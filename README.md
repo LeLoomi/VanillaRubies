@@ -2,7 +2,7 @@
 # Minecraft *VanillaRubies*
 This mod aims to seamlessly integrate rubies back into the game, which were planned to be added with the 1.3 update a decade ago. They do not replace emeralds for trading and instead are available as "regular material" i.e. for crafting armor and tools.
 
-Current progress (v 0.0.1):
+Current progress (v 0.1.0):
  - [x] Item
  - [x] (Deepslate) Ore block, gem block
  - [x] Armor
